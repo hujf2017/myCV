@@ -99,9 +99,9 @@ JAVA开发 中级软件设计师
 
 
 ## 附加信息
-https://github.com/hujf2017/hr。 简单的HR管理系统，用ssm实现。
+https://github.com/hujf2017/hr 简单的HR管理系统，用ssm实现。
 
-https://github.com/hujf2017/myblog。简单的个人博客网站：ssm+maven+tomcat发布。
+https://github.com/hujf2017/myblog 简单的个人博客网站：ssm+maven+tomcat发布。
 
 ## 技能证书
 * 1.	软考中级-软件设计师
