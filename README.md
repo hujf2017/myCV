@@ -106,3 +106,5 @@ https://github.com/hujf2017/myblog 简单的个人博客网站：ssm+maven+tomca
 * 1.	软考中级-软件设计师
 * 2.	省级高数竞赛三等奖，省级微积分竞赛三等奖
 * 3.    三等奖学金
+
+![](http://img.tukexw.com/img/34e483e9bfe89467.jpg)
