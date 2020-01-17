@@ -112,5 +112,5 @@ https://github.com/hujf2017/myblog 简单的个人博客网站：ssm+maven+tomca
 * 2.	省级高数竞赛三等奖，省级微积分竞赛三等奖
 * 3.    三等奖学金
 
-[简历下载](https://raw.githubusercontent.com/hujf2017/myCV/master/%E8%83%A1%E5%89%91%E5%B3%B0%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%88%E5%8D%8E%E4%B8%9C%E5%8C%BB%E8%8D%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8JAVA%E5%BC%80%E5%8F%91%20%E4%B8%AD%E7%BA%A7%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88)
+[简历下载](https://raw.githubusercontent.com/hujf2017/myCV/master/%E8%83%A1%E5%89%91%E5%B3%B0%E7%9A%84%E7%AE%80%E5%8E%86%EF%BC%88%E5%8D%8E%E4%B8%9C%E5%8C%BB%E8%8D%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8JAVA%E5%BC%80%E5%8F%91%20%E4%B8%AD%E7%BA%A7%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88).pdf)
 ![](http://img01.sogoucdn.com/app/a/200678/14679627263104.gif)
